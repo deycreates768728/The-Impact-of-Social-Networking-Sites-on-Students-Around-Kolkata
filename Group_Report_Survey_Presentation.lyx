@@ -1,0 +1,4001 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass beamer
+\begin_preamble
+\usetheme{PaloAlto}
+\usepackage{graphicx}
+\end_preamble
+\use_default_options true
+\begin_modules
+knitr
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+The impact of social networking sites on the students around Kolkata
+\end_layout
+
+\begin_layout Author
+Sourav Dey, Manish Chandra Roy, Swarnendu Dey, Roshni Majhi
+\end_layout
+
+\begin_layout Institute
+Presidency University, 86/1 College Street Kolkata 700073 
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+I think you know this icons very well!!
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename IMG-20240409-WA0008.jpg
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Introduction
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The prevalence of social networking sites (SNS) has significantly increased
+ over the past decade, reshaping how students interact and communicate.
+ The rise of platforms like Facebook, Twitter, and Instagram has revolutionized
+ the way students connect with peers, share information, and express themselves
+ online.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The popularity of social networking sites began to soar around the mid-2000s,
+ with Facebook emerging as a dominant player in the market.
+ Over the years, the landscape has evolved, with new platforms and features
+ continuously being introduced.
+ This rapid growth has had a profound impact on student life, influencing
+ their social interactions, academic pursuits, and overall well-being.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Introduction (Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The outbreak of the COVID-19 pandemic further amplified the role of social
+ networking sites in students lives, as quarantine and social distancing
+ measures forced them to rely more on these platforms for socializing and
+ staying connected with friends and classmates.
+ This increased reliance on social networking sites has led to changes in
+ how students manage their time, with many spending more hours online than
+ before.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+As a result, we have witnessed a significant shift in student’s social habits
+ and behaviors, with social networking sites playing a central role in shaping
+ their identities and relationships.
+ Understanding these changes is crucial for educators, parents, and policymakers
+ to support students in navigating the digital landscape and ensuring a
+ healthy balance between online and offline interactions.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Objectives
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Do the majority of students have a high daily screen time?
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Does the different types of sites/apps used by students affect daily screen
+ time significantly?
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Do students have a greater preference of using social media for entertainment
+ purposes than educational?
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+3-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Does social media addiction carry a significant negative influence on academic
+ performances of students according to them?
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+4-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Those who prefer to use social media frequently, what kind of impacts are
+ visible on them?
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+5-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Data Collection Methods
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout FrameSubtitle
+Plan of enquiry
+\end_layout
+
+\begin_layout Itemize
+Here, as our survey method we have chosen online questionnaire survey because
+ of the benefits.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+It saves our time and resources.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+High reach of circulation unlike door to door survey.
+ 
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+3-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Although we have some cons in questionnaire like Our reach is restricted
+ to only those who use mobile and have active internet connection.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+4-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Target Population
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+Our target population was the people living in Kolkata and its surrounding
+ places and also villages, as we are interested to know the change in their
+ internet usage habits in recent times.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Design of the Questionnaire
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+In order to frame a proper questionnaire we started with the basic questions
+ which we thought will be required in our analysis and our first set of
+ questions was :
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Graphics
+	filename Prov.Q11.jpg
+	scale 17
+	rotateOrigin leftBottom
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Prov.Q1.jpg
+	scale 17
+	rotateOrigin centerBottom
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Contd.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Graphics
+	filename Prov.3.jpg
+	scale 17
+	rotateOrigin rightBottom
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Contd.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+That was just an overview to frame our first questionnaire.
+ In our first questionnaire the errors which we have done were as follows:
+\end_layout
+
+\begin_layout Itemize
+The order of the questions were not in a proper manner which may disturb
+ the student and he/she may not complete the form.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Few questions that were not necessary were also included in the questionnaire
+ which unnecessarily increased the length of the questionnaire such as :
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset Graphics
+	filename Wrong.1.jpg
+	scale 30
+	rotateOrigin leftBottom
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Wrong.2.jpg
+	scale 30
+	rotateOrigin centerBottom
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Contd.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Those questions were not useful in our analysis so we removed them and replaced
+ them by useful questions in our final questionnaire.
+ 
+\end_layout
+
+\begin_layout Itemize
+Lastly, there were few mistakes in the options and in framing the question
+ properly.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Later we have done the corrections in our first questionnaire.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Our final questionnaire is shown in the next slide
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+3-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Contd.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename Final.1st.jpg
+	scale 21
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename Final.2.jpg
+	scale 21
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Final Questionnaire (Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename Final.3.jpg
+	scale 26
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Data description
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We have got 150 observations with 22 variables where 17 variables are categorica
+l and 5 are numerical.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+We got the following variables w.r.t.
+ Q1,Q2, and so on respectively:
+\end_layout
+
+\begin_layout Itemize
+Q1: Time
+\end_layout
+
+\begin_layout Itemize
+Q2: Name 
+\end_layout
+
+\begin_layout Itemize
+Q3: Gender
+\end_layout
+
+\begin_layout Itemize
+Q4: Age
+\end_layout
+
+\begin_layout Itemize
+Q5: Family income 
+\end_layout
+
+\begin_layout Itemize
+Q6: Locality 
+\end_layout
+
+\begin_layout Itemize
+Q7: Commute hours to go to their college or university 
+\end_layout
+
+\begin_layout Itemize
+Q8: How often do they use social networking sites 
+\end_layout
+
+\begin_layout Itemize
+Q9: Time spending on the internet 
+\end_layout
+
+\begin_layout Itemize
+Q10: Academic Stream 
+\end_layout
+
+\begin_layout Itemize
+Q11: Do they enjoy reading?
+\end_layout
+
+\begin_layout Itemize
+Q12: Language they prefer for reading 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Contd.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Q13: Favorite genre 
+\end_layout
+
+\begin_layout Itemize
+Q14: Favorite platform 
+\end_layout
+
+\begin_layout Itemize
+Q15: Significant purpose of yours to use social networking sites 
+\end_layout
+
+\begin_layout Itemize
+Q16: Where do you get to know the socio - political scenario 
+\end_layout
+
+\begin_layout Itemize
+Q17: Subscription of any online education course 
+\end_layout
+
+\begin_layout Itemize
+Q18: Do you feel stressed out for using too much of social networking sites
+ 
+\end_layout
+
+\begin_layout Itemize
+Q19: Academic satisfaction out of 5
+\end_layout
+
+\begin_layout Itemize
+Q20: Professional satisfaction out of 5 
+\end_layout
+
+\begin_layout Itemize
+Q21: How would you find yourself in a social gathering 
+\end_layout
+
+\begin_layout Itemize
+Q22: Sleep hours
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Statistical methodology
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout FrameSubtitle
+Scrutiny of Data
+\end_layout
+
+\begin_layout Standard
+After collecting the data we found a lot of information which were incomplete
+ in the disguise of missing.
+ These data were eliminated after complete case analysis, otherwise these
+ could’ve affected the summary of the variable behaving as outliers.
+ Finally after scrutinization we have 140 observations.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Statistical methodology (Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout FrameSubtitle
+Variable pre processing
+\end_layout
+
+\begin_layout Standard
+Many of the respondents answered the Question: “How many hours a day do
+ you spend time on social networking websites on an average?” as a range
+ like 3-4, 5-6 etc.
+ As we asked value as an average, we replaced the given range as the mean
+ of the two values given.
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Exploratory Data Analysis
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We start by showing the Column diagram (bar plot) of the age distribution
+ & pie chart for annual family income from where we were collected the data.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,quiet=T,echo=F,size=
+\begin_inset Quotes erd
+\end_inset
+
+tiny
+\begin_inset Quotes erd
+\end_inset
+
+>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+My.file=read.csv("C:
+\backslash
+
+\backslash
+Users
+\backslash
+
+\backslash
+SOURAV
+\backslash
+
+\backslash
+Desktop
+\backslash
+
+\backslash
+SEM - 4
+\backslash
+
+\backslash
+SEM - 4 AKG
+\backslash
+
+\backslash
+Group Report Survey
+\backslash
+
+\backslash
+Unlock the insights.csv")
+\end_layout
+
+\begin_layout Plain Layout
+
+colnames(My.file)=paste("Q",1:ncol(My.file),sep="") 
+\end_layout
+
+\begin_layout Plain Layout
+
+str(My.file)
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Demographics
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Age and Gender distribution 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=4,fig.width=6.59,echo=F>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+barplot(table(My.file$Q4),
+\end_layout
+
+\begin_layout Plain Layout
+
+	main = "Age Distribution",
+\end_layout
+
+\begin_layout Plain Layout
+
+	xlab = "Age",
+\end_layout
+
+\begin_layout Plain Layout
+
+	ylab = "Frequency",
+\end_layout
+
+\begin_layout Plain Layout
+
+	col = "turquoise")
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Demographics(Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This histogram shows that our sample is largely composed of individuals
+ aged 18 to 21, with the peak frequencies at ages 19 and 20.
+ This demographic concentration is significant because it suggests our findings
+ will primarily reflect the behaviors and attitudes of late teenagers and
+ young adults.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The smaller number of respondents in the younger and older age brackets
+ indicates that our data may be less representative of those age groups.
+ However, the central cluster provides a robust basis for understanding
+ the impact of social networking sites on typical college-age students.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Demographics(Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Family Income Distribution
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=4.6,fig.width=5.69,echo=F>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+income_counts <- table(My.file$Q5)
+\end_layout
+
+\begin_layout Plain Layout
+
+pie(income_counts, 	labels = paste(round(income_counts/ 	sum(income_counts)*100)
+, "%"),
+\end_layout
+
+\begin_layout Plain Layout
+
+	main = "Annual Family Income Distribution", cex.main=0.9,
+\end_layout
+
+\begin_layout Plain Layout
+
+	col = rainbow(length(income_counts)))
+\end_layout
+
+\begin_layout Plain Layout
+
+legend("topright", cex=0.48, legend = names(income_counts),
+\end_layout
+
+\begin_layout Plain Layout
+
+	fill = rainbow(length(income_counts)))
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Demographics(Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This pie chart illustrates that a significant portion of our respondents,
+ 37%, fall within the ₹60,000 – ₹3,40,000 income range.
+ This is the most common income bracket among our participants.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Approximately 21% of respondents have a family income below₹60,000 and another
+ 21% fall in the ₹3,40,000 – ₹7,80,000 range.
+ These two middle-income brackets together account for a substantial portion
+ of our sample.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Respondents with an annual family income above ₹10,00,000 constitute 9%
+ of the sample, while those with an income below ₹7,80,000 - ₹10,00,000
+ make up the smallest group at 12%.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+3-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+These income distributions help us understand the socio-economic backgrounds
+ of our respondents, which is crucial for analyzing how financial status
+ might influence social media usage and its impact.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+4-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Social Media Usage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Frequency of Use
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=4.89,fig.width=5.69,echo=F>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+social_counts <- table(My.file$Q8)
+\end_layout
+
+\begin_layout Plain Layout
+
+pie(social_counts,
+\end_layout
+
+\begin_layout Plain Layout
+
+     labels = paste(round(social_counts/sum(social_counts)*100), "%"),
+\end_layout
+
+\begin_layout Plain Layout
+
+    main = "Social Networking Usage Distribution", 
+\end_layout
+
+\begin_layout Plain Layout
+
+	cex.main=0.66,
+\end_layout
+
+\begin_layout Plain Layout
+
+    col = rainbow(length(social_counts)),
+\end_layout
+
+\begin_layout Plain Layout
+
+    cex = 0.8)
+\end_layout
+
+\begin_layout Plain Layout
+
+legend("topright", cex=0.5, legend = names(social_counts), fill = rainbow(length(
+social_counts))) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Social Media Usage (Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+While collecting the data, we were also interested in knowing how often
+ these people use social media/social networking sites.
+ We’re not surprised seeing that almost 16% of the population prefer to
+ use social networking websites in a daily basis and they quite addicted
+ to it.
+ Although almost 36% and 34% of the people still prefer to use social networking
+ sites frequently and moderate respectively by not adopting the new habits
+ of these generation.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Social Media Usage (Preferred Platforms)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Preferred Platforms
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=4.89,fig.width=5.69,echo=F>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+platform_counts <- table(My.file$Q14)
+\end_layout
+
+\begin_layout Plain Layout
+
+pie(platform_counts,
+\end_layout
+
+\begin_layout Plain Layout
+
+     labels = paste(names(platform_counts), ": ", platform_counts),
+\end_layout
+
+\begin_layout Plain Layout
+
+    main = "Favorite Social Networking Platform", 
+\end_layout
+
+\begin_layout Plain Layout
+
+	cex.main=0.66,
+\end_layout
+
+\begin_layout Plain Layout
+
+    col = rainbow(length(platform_counts)),
+\end_layout
+
+\begin_layout Plain Layout
+
+    cex = 0.8)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Social Media Usage (Preferred Platforms) (Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We collected the names of social networking sites/apps people used the most,
+ and considered multiple names, and did a pie chart.
+ Instagram emerged as the most used app, followed by Whats app and YouTube
+ respectively.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Impact on Daily Life and Academic Performance
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Purpose of Using Social Networking Sites
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=4.89,fig.width=5.69,echo=F>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+purpose_counts <- table(My.file$Q15)
+\end_layout
+
+\begin_layout Plain Layout
+
+pie(purpose_counts,
+\end_layout
+
+\begin_layout Plain Layout
+
+     labels = paste(round(purpose_counts/sum(purpose_counts)*100), "%"),
+\end_layout
+
+\begin_layout Plain Layout
+
+     main = "Purpose of Using Social Networking Sites",cex.main=0.9,
+\end_layout
+
+\begin_layout Plain Layout
+
+    col = rainbow(length(purpose_counts)),
+\end_layout
+
+\begin_layout Plain Layout
+
+    cex = 0.8)
+\end_layout
+
+\begin_layout Plain Layout
+
+legend("topright", cex = 0.5, legend = names(purpose_counts), fill = rainbow(leng
+th(purpose_counts))) 
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+In summary, most users engage in chatting and information gathering, with
+ fewer people using these platforms for studying and blogging.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Academic and professional Satisfaction Rating
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+since our data majorly focused on the teenager, there academic satisfaction
+ level is a major thing when it comes to there daily life 
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=4.89,fig.width=5.69,echo=F>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+par(mfrow=c(1,2))
+\end_layout
+
+\begin_layout Plain Layout
+
+satisfaction_counts <- table(My.file$Q19)
+\end_layout
+
+\begin_layout Plain Layout
+
+pie(satisfaction_counts,
+\end_layout
+
+\begin_layout Plain Layout
+
+     labels = paste(names(satisfaction_counts), ": ", "(",
+\end_layout
+
+\begin_layout Plain Layout
+
+    round(satisfaction_counts/sum(satisfaction_counts)*100), "%", ")"),
+\end_layout
+
+\begin_layout Plain Layout
+
+     main = "Academic Satisfaction Rating", cex.main=0.9,
+\end_layout
+
+\begin_layout Plain Layout
+
+    col = rainbow(length(satisfaction_counts)),
+\end_layout
+
+\begin_layout Plain Layout
+
+    cex = 0.8)
+\end_layout
+
+\begin_layout Plain Layout
+
+legend("topright", cex = 0.5,legend = names(satisfaction_counts), fill =
+ rainbow(length(satisfaction_counts)))
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+satisfaction_counts_1 <- table(My.file$Q20)
+\end_layout
+
+\begin_layout Plain Layout
+
+pie(satisfaction_counts_1,
+\end_layout
+
+\begin_layout Plain Layout
+
+     labels = paste(names(satisfaction_counts_1), ": ",
+\end_layout
+
+\begin_layout Plain Layout
+
+    "(", round(satisfaction_counts_1/sum(satisfaction_counts_1)*100), "%",
+ ")"),
+\end_layout
+
+\begin_layout Plain Layout
+
+     main = "Professional Satisfaction Rating", cex.main=0.9,
+\end_layout
+
+\begin_layout Plain Layout
+
+    col = rainbow(length(satisfaction_counts_1)),
+\end_layout
+
+\begin_layout Plain Layout
+
+    cex = 0.8)
+\end_layout
+
+\begin_layout Plain Layout
+
+legend("topleft",cex = 0.5, legend = names(satisfaction_counts_1), fill =
+ rainbow(length(satisfaction_counts_1)))
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Academic and professional Satisfaction Rating (Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The majority of youth feel moderately satisfied in both overall and professional
+ contexts.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+There's a higher percentage of youth giving low satisfaction ratings (0-2)
+ in professional satisfaction compared to overall satisfaction.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Positive Sentiment: A significant portion of the youth still rate their
+ satisfaction highly (4-5) in both categories.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+3-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Behavioral Changes
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Another interesting fact we can observe based on students reading behavior,
+ we asked students whether they like to read or not? And we got some interesting
+ results at the end, fact or the data showing us that there is no dependency
+ when it comes to internet usage time of a student and reading behavior,
+ most of the students like to read books although they spend many times
+ on the internet.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Behavioral Changes (Contd.)
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,warning=NA,fig.height=3.9,fig.width=3.9,echo=F>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+My.file$Q9_group <- cut(My.file$Q9, breaks = c(0, 3, 6, 14),
+\end_layout
+
+\begin_layout Plain Layout
+
+	labels = c("0-3", "3-6", "above 6"), include.lowest = TRUE)
+\end_layout
+
+\begin_layout Plain Layout
+
+# Create a table for the counts
+\end_layout
+
+\begin_layout Plain Layout
+
+	counts <- table(My.file$Q9_group, My.file$Q11)
+\end_layout
+
+\begin_layout Plain Layout
+
+# Define colors
+\end_layout
+
+\begin_layout Plain Layout
+
+	colors <- c("No" = "green", "Yes" = "yellow")
+\end_layout
+
+\begin_layout Plain Layout
+
+# Plot using barplot
+\end_layout
+
+\begin_layout Plain Layout
+
+	barplot(counts, beside = TRUE, col = colors,
+\end_layout
+
+\begin_layout Plain Layout
+
+        main = "Internet Usage by Hours Spent on Internet", cex.main = 0.5,
+\end_layout
+
+\begin_layout Plain Layout
+
+		xlab = "Hours Spent on Internet",
+\end_layout
+
+\begin_layout Plain Layout
+
+		ylab = "No.
+ of Students",
+\end_layout
+
+\begin_layout Plain Layout
+
+        legend.text = TRUE,
+\end_layout
+
+\begin_layout Plain Layout
+
+		args.legend = list(title = "Q11",cex=0.45, x = "topright")) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Behavioral Changes(Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+sleep pattern is a very important thing in our life ,not to mention the
+ dieseses caused by the lack of sleep.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=4.6,fig.width=6.5,echo=F>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+sleep_counts <- table(My.file$Q22)
+\end_layout
+
+\begin_layout Plain Layout
+
+barplot(sleep_counts,
+\end_layout
+
+\begin_layout Plain Layout
+
+         main = "Hours of Sleep in a Day",
+\end_layout
+
+\begin_layout Plain Layout
+
+        xlab = "Hours of Sleep",
+\end_layout
+
+\begin_layout Plain Layout
+
+        ylab = "Frequency",
+\end_layout
+
+\begin_layout Plain Layout
+
+        col = "skyblue",
+\end_layout
+
+\begin_layout Plain Layout
+
+        ylim = c(0, max(sleep_counts) + 2))
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Behavioral Changes(Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The data indicates that most individuals get between 6 to 8 hours of sleep,
+ which aligns with general sleep recommendations for young adults.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+There are fewer individuals getting extremely low (less than 5 hours) or
+ extremely high (more than 9 hours) amounts of sleep.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The peak at 8 hours suggests that a significant portion of the group is
+ likely meeting the recommended amount of sleep, which is beneficial for
+ health and well-being.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+3-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The histogram provides a clear visual representation of sleep patterns,
+ showing that 6 to 8 hours of sleep is the most common duration among the
+ group surveyed.
+ 
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+4-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+It is essential to encourage maintaining healthy sleep habits, aiming for
+ 7-8 hours per night.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+5-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Visual Representations
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=4.5,fig.width=4.5,echo=F>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+stream_counts <- table(My.file$Q10)
+\end_layout
+
+\begin_layout Plain Layout
+
+pie(stream_counts,
+\end_layout
+
+\begin_layout Plain Layout
+
+    labels = paste(round(stream_counts/sum(stream_counts)*100), "%"),
+\end_layout
+
+\begin_layout Plain Layout
+
+    main = "Stream of Study Distribution",cex.main=0.78,
+\end_layout
+
+\begin_layout Plain Layout
+
+    col = rainbow(length(stream_counts)),
+\end_layout
+
+\begin_layout Plain Layout
+
+    cex = 0.8)
+\end_layout
+
+\begin_layout Plain Layout
+
+legend("topleft",cex=0.5, legend = names(stream_counts), fill = rainbow(length(st
+ream_counts)))
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Visual Representation (Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+we can clearly see that the majority of the students belongs to science
+ stream and in the other hand commerce students are rare to be found.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+it's showing the increasing demand for science stream and also the unpopularity
+ of commerce stream.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Contd.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Another visual representation is Distribution of Average Daily Expenditure
+ of Time by Income Range
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=2.79,fig.width=3.6,echo=F>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+My.file$Q5 <- as.factor(My.file$Q5)
+\end_layout
+
+\begin_layout Plain Layout
+
+My.file$Q9 <- as.numeric(My.file$Q9)
+\end_layout
+
+\begin_layout Plain Layout
+
+boxplot(Q9 ~ Q5,
+\end_layout
+
+\begin_layout Plain Layout
+
+		data = My.file,
+\end_layout
+
+\begin_layout Plain Layout
+
+        main = "Distribution of Average Daily Expenditure of Time by Income
+ Range",
+\end_layout
+
+\begin_layout Plain Layout
+
+		cex.main=0.55,
+\end_layout
+
+\begin_layout Plain Layout
+
+        xlab = "Monthly avg.
+ Income Range (in Rs.)", cex.lab=0.66,cex.names=0.5,
+\end_layout
+
+\begin_layout Plain Layout
+
+        ylab = "Avg.
+ Daily Expenditure of Time (in hours)",
+\end_layout
+
+\begin_layout Plain Layout
+
+        col = "lightblue",
+\end_layout
+
+\begin_layout Plain Layout
+
+		las=2)
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Contd.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+Observations: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+People with higher incomes tend to spend more time daily.
+ 
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Income groups with wider boxes have more variation in time use.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Outliers (unusual cases) can impact the overall pattern.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+3-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+In summary, this graph helps us understand how income influences daily time
+ allocation.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+4-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Regression Analysis
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=3.5,fig.width=3.6,echo=F>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+My.file$Q9 <- as.numeric(My.file$Q9)
+\end_layout
+
+\begin_layout Plain Layout
+
+age <- My.file$Q4
+\end_layout
+
+\begin_layout Plain Layout
+
+time_spent <- My.file$Q9
+\end_layout
+
+\begin_layout Plain Layout
+
+gender <- My.file$Q3
+\end_layout
+
+\begin_layout Plain Layout
+
+plot(age, time_spent,
+\end_layout
+
+\begin_layout Plain Layout
+
+      main = "Age vs.
+ Time Spent on Social Networking Sites",cex.main=0.55,
+\end_layout
+
+\begin_layout Plain Layout
+
+     xlab = "Age (in years)",cex.lab=0.69,
+\end_layout
+
+\begin_layout Plain Layout
+
+     ylab = "Time Spent on Social Networking Sites (in hours)",
+\end_layout
+
+\begin_layout Plain Layout
+
+     pch = 19,
+\end_layout
+
+\begin_layout Plain Layout
+
+col = ifelse(gender == "Male", "orange", "green"))
+\end_layout
+
+\begin_layout Plain Layout
+
+fit <- lm(time_spent ~ age)
+\end_layout
+
+\begin_layout Plain Layout
+
+abline(fit, col = "red", lwd = 2)
+\end_layout
+
+\begin_layout Plain Layout
+
+legend("topright", legend = c("Male", "Female"), col = c("orange", "green"),cex
+ = 0.5, pch = 19) 
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Regression Analysis (Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We also tried to fit a regression to predict the average time spend on social
+ networking sites given the age of the students, which although wasn’t quite
+ good.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Association check
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,warning=NA,fig.height=5,fig.width=5,echo=F>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+table_Q6_Q14 <- table(My.file$Q6, My.file$Q14)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+library(vcd)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+cramers_v <- assocstats(table_Q6_Q14)$cramer
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+print(cramers_v)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+There seems to be a weak to moderate association between age and time spent
+ on social networking sites.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Inferential Data Analysis
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+For the categorical variables we have we decided to perform a chi-square
+ test of independence.
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Hypothesis :
+\end_layout
+
+\begin_layout Itemize
+Null Hypothesis (
+\begin_inset Formula $H_{0}$
+\end_inset
+
+): There is no relationship between the average number of hours spent on
+ the internet and students' academic satisfaction levels.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Alternative Hypothesis (
+\begin_inset Formula $H_{1}$
+\end_inset
+
+): There is a relationship between the average number of hours spent on
+ the internet and students' academic satisfaction levels.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+3-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+We divided the average internet usage into three groups: "
+\begin_inset Formula $0-3$
+\end_inset
+
+ hours", "
+\begin_inset Formula $3-6$
+\end_inset
+
+ hours", and "above 
+\begin_inset Formula $6$
+\end_inset
+
+ hours." The academic satisfaction levels were categorized from 0 to 5.
+ Here is our contingency table:
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+4-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Contd.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Graphics
+	filename Screenshot 2024-06-19 052415.png
+	width 100text%
+	rotateOrigin center
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Inferential Data Analysis (Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=3.5,fig.width=3.5,echo=F,warning=NA,size=
+\begin_inset Quotes erd
+\end_inset
+
+scriptsize
+\begin_inset Quotes erd
+\end_inset
+
+>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+data1 <- My.file$Q9
+\end_layout
+
+\begin_layout Plain Layout
+
+breaks <- c(0,3,6,14)
+\end_layout
+
+\begin_layout Plain Layout
+
+groups <- cut(data1, breaks = breaks, labels = FALSE)
+\end_layout
+
+\begin_layout Plain Layout
+
+group_labels <- cut(data1, breaks = breaks, labels = c("0-3", "3-6"," above
+ 6 "), include.lowest = TRUE)
+\end_layout
+
+\begin_layout Plain Layout
+
+data_frame1 <- data.frame(Data = data1, Group = group_labels)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+data2 <- My.file$Q19
+\end_layout
+
+\begin_layout Plain Layout
+
+breaks <- c(-Inf, 2, 3, 5) 
+\end_layout
+
+\begin_layout Plain Layout
+
+groups <- cut(data2, breaks = breaks, labels = FALSE) 
+\end_layout
+
+\begin_layout Plain Layout
+
+group_labels <- cut(data2, breaks = breaks, labels = c("0-2", "3", "4-5"),
+ include.lowest = TRUE)
+\end_layout
+
+\begin_layout Plain Layout
+
+data_frame2 <- data.frame(Data = data2, Group = group_labels)
+\end_layout
+
+\begin_layout Plain Layout
+
+data_frame1$Group <- as.factor(data_frame1$Group) 
+\end_layout
+
+\begin_layout Plain Layout
+
+data_frame2$Group <- as.factor(data_frame2$Group)
+\end_layout
+
+\begin_layout Plain Layout
+
+cont_table <- table(data_frame1$Group, data_frame2$Group)
+\end_layout
+
+\begin_layout Plain Layout
+
+dimnames(cont_table) <- list(
+\end_layout
+
+\begin_layout Plain Layout
+
+  "avg_hour_they_spend_on_the_internet" = c("0-3 hours ", "3-6 hours", "above
+ 6 hours"), 
+\end_layout
+
+\begin_layout Plain Layout
+
+ "academic_satisfaction_level(0-5)" = c("0-2", "3", "4-5")
+\end_layout
+
+\begin_layout Plain Layout
+
+)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+print(cont_table, quote = FALSE, right = FALSE)
+\end_layout
+
+\begin_layout Plain Layout
+
+chi_square_test <- chisq.test(cont_table)
+\end_layout
+
+\begin_layout Plain Layout
+
+print(chi_square_test)
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Contd.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+Since, we see that the p-value of the chi-square test of independence is
+ less than the level of significance (0.05) so in the light of the given
+ data, we do not have sufficient reason to believe that the variables are
+ not related, that is,we reject the null hypothesis, which states that avg.
+ number of hours they spend on their internet does effect in their academic
+ satisfaction level.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Inferential Data Analysis(Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Next, we tested the relationship between students' streams of study and
+ their average time spent on social networking sites.
+ The hypothesis was:
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Null Hypothesis (
+\begin_inset Formula $H_{0}$
+\end_inset
+
+): There is no relationship between the stream of study and average time
+ spent on social networking sites.
+ 
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Alternative Hypothesis (
+\begin_inset Formula $H_{1}$
+\end_inset
+
+): There is a relationship between the stream of study and average time
+ spent on social networking sites.
+ 
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+3-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Contd.
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=3.5,fig.width=3.5,echo=F,warning=NA,size=
+\begin_inset Quotes erd
+\end_inset
+
+scriptsize
+\begin_inset Quotes erd
+\end_inset
+
+>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+class(My.file$Q9)
+\end_layout
+
+\begin_layout Plain Layout
+
+class(My.file$Q10)
+\end_layout
+
+\begin_layout Plain Layout
+
+My.file$Q9 <- as.numeric(My.file$Q9)
+\end_layout
+
+\begin_layout Plain Layout
+
+My.file$Q9_group <- cut(My.file$Q9, breaks = c(0, 3, 6, 14), labels = c("0-3",
+ "3-6", "above 6"),
+\end_layout
+
+\begin_layout Plain Layout
+
+include.lowest = TRUE)
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq <- matrix(0, nrow = 2, ncol = 3)
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq[1, 1] <- sum(My.file$Q10 == "Science" & My.file$Q9_group == "0-3")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq[1, 2] <- sum(My.file$Q10 == "Science" & My.file$Q9_group == "3-6")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq[1, 3] <- sum(My.file$Q10 == "Science" & My.file$Q9_group == "above
+ 6")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq[2, 1] <- sum(My.file$Q10 != "Science" & My.file$Q9_group == "0-3")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq[2, 2] <- sum(My.file$Q10 != "Science" & My.file$Q9_group == "3-6")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq[2, 3] <- sum(My.file$Q10 != "Science" & My.file$Q9_group == "above
+ 6")
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+rownames(obs.freq) <- c("SCI/THECH/MED", "HUM/MBA/COMM/O.TW")
+\end_layout
+
+\begin_layout Plain Layout
+
+colnames(obs.freq) <- c("0-3", "3-6" ,"above 6")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq 
+\end_layout
+
+\begin_layout Plain Layout
+
+chisq.test(obs.freq,correct=T)
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Contd.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Since, we see that the p-value of the chi-square test of independence is
+ more than the level of significance (0.05) so in the light of the given
+ data, we do have sufficient reason to believe that the variables are not
+ related, that is, we accept the null hypothesis, which states that their
+ is no between a student's locality and his/her internet usage hours.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Inferential Data Analysis(Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+We also explored the relationship between a student’s locality and their
+ internet usage hours.
+ The hypothesis was:
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Null Hypothesis (H0): There is no relationship between a student’s locality
+ and their internet usage hours.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Alternative Hypothesis (H1): There is a relationship between a student’s
+ locality and their internet usage hours.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+3-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Inferential Data Analysis(Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=3.5,fig.width=3.5,echo=F,warning=NA,size=
+\begin_inset Quotes erd
+\end_inset
+
+scriptsize
+\begin_inset Quotes erd
+\end_inset
+
+>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+class(My.file$Q9)
+\end_layout
+
+\begin_layout Plain Layout
+
+class(My.file$Q6)
+\end_layout
+
+\begin_layout Plain Layout
+
+My.file$Q9 <- as.numeric(My.file$Q9)
+\end_layout
+
+\begin_layout Plain Layout
+
+My.file$Q9_group <- cut(My.file$Q9, breaks = c(0, 3, 6, 14), labels = c("0-3",
+ "3-6", "above 6"),
+\end_layout
+
+\begin_layout Plain Layout
+
+include.lowest = TRUE)
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq <- matrix(0, nrow = 3, ncol = 2)
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq[1, 1] <- sum(My.file$Q9_group == "0-3" & My.file$Q6 == "Surroundings")
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq[1, 2] <- sum(My.file$Q9_group != "0-3" & My.file$Q6 == "Surroundings")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq[2, 1] <- sum(My.file$Q9_group == "0-3" & My.file$Q6 == "Kolkata")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq[2, 2] <- sum(My.file$Q9_group != "0-3" & My.file$Q6 == "Kolkata")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq[3, 1] <- sum(My.file$Q9_group == "0-3" & My.file$Q6 == "Villages")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq[3, 2] <- sum(My.file$Q9_group != "0-3" & My.file$Q6 == "Villages")
+\end_layout
+
+\begin_layout Plain Layout
+
+ 
+\end_layout
+
+\begin_layout Plain Layout
+
+rownames(obs.freq) <- c("Surroundings", "Kolkata", "Villages")
+\end_layout
+
+\begin_layout Plain Layout
+
+colnames(obs.freq) <- c("0-3", "above 3 hours") 
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq 
+\end_layout
+
+\begin_layout Plain Layout
+
+chi2 <- chisq.test(obs.freq) 
+\end_layout
+
+\begin_layout Plain Layout
+
+chi2
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Inferential Data Analysis(Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Since, we see that the p-value of the chi-square test of independence is
+ more than the level of significance (0.05) so in the light of the given
+ data, we do have sufficient reason to believe that the variables are not
+ related, that is, we accept the null hypothesis, which states that their
+ is no between a student's locality and his/her internet usage hours.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Inferential Data Analysis(Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Lastly, we examined the relationship between the reason for internet usage
+ and the stream of study.
+ The hypothesis was:
+\begin_inset Argument 1
+status open
+
+\begin_layout Plain Layout
+
+1-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Hypothesis : 
+\end_layout
+
+\begin_layout Itemize
+Null Hypothesis (
+\begin_inset Formula $H_{0}$
+\end_inset
+
+): There is no relationship between the reason for internet usage and the
+ stream of study.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+2-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Alternative Hypothesis (
+\begin_inset Formula $H_{1}$
+\end_inset
+
+): There is a relationship between the reason for internet usage and the
+ stream of study.
+\begin_inset Argument item:2
+status open
+
+\begin_layout Plain Layout
+
+3-
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Inferential Data Analysis(Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+<<comment=NA,fig.height=3.5,fig.width=3.5,echo=F,warning=NA,size=
+\begin_inset Quotes erd
+\end_inset
+
+scriptsize
+\begin_inset Quotes erd
+\end_inset
+
+>>=
+\end_layout
+
+\begin_layout Plain Layout
+
+class(My.file$Q10)
+\end_layout
+
+\begin_layout Plain Layout
+
+class(My.file$Q15)
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq_Q15_Q10 <- matrix(0, nrow = 3, ncol = 2)
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq_Q15_Q10[1, 1] <- sum(My.file$Q15 == "Chatting and relaxing" & My.file$Q10
+ == "Science")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq_Q15_Q10[1, 2] <- sum(My.file$Q15 == "Chatting and relaxing" & My.file$Q10
+ != "Science")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq_Q15_Q10[2, 1] <- sum(My.file$Q15 == "Gathering information" & My.file$Q10
+ == "Science")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq_Q15_Q10[2, 2] <- sum(My.file$Q15 == "Gathering information" & My.file$Q10
+ != "Science")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq_Q15_Q10[3, 1] <- sum(My.file$Q15 == "Studying" & My.file$Q10 == "Science")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq_Q15_Q10[3, 2] <- sum(My.file$Q15 == "Studying" & My.file$Q10 != "Science")
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\begin_layout Plain Layout
+
+rownames(obs.freq_Q15_Q10) <- c("Chatting and relaxing", "Gathering information",
+ "studying ")
+\end_layout
+
+\begin_layout Plain Layout
+
+colnames(obs.freq_Q15_Q10) <- c("SCI/THECH/MED", "HUM/MBA/COMM/O.TW")
+\end_layout
+
+\begin_layout Plain Layout
+
+obs.freq_Q15_Q10 
+\end_layout
+
+\begin_layout Plain Layout
+
+chi2_Q15_Q10 <- chisq.test(obs.freq_Q15_Q10) 
+\end_layout
+
+\begin_layout Plain Layout
+
+chi2_Q15_Q10
+\end_layout
+
+\begin_layout Plain Layout
+
+@
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Inferential Data Analysis(Contd.)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Since, we see that the p-value of the chi-square test of independence is
+ more than the level of significance (0.05) so in the light of the given
+ data, we do have sufficient reason to believe that the variables are not
+ related, that is ,we accept the null hypothesis, which states that their
+ is no between the style or the reason for their internet usage and the
+ stream they choose.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Interpretations
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+These results imply that whether students are in the science stream or humanitie
+s stream, it does not significantly affect their pattern of internet usage.
+ Students from both streams spend similar amounts of time on social networking
+ sites and use the internet for similar reasons, such as chatting, gathering
+ information, and studying.
+ 
+\end_layout
+
+\begin_layout Itemize
+While these analyses show no significant relationship between stream of
+ study and internet usage patterns, further research could explore other
+ variables that might be influencing these patterns.
+ Variables such as individual preferences, extracurricular activities, and
+ academic workload could provide deeper insights.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Conclusions
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+In conclusion, our analysis reveals that being a science student or a humanities
+ student does not significantly affect how students use the internet.
+ Their patterns of internet usage, including time spent on social networking
+ sites and reasons for internet use, are similar across different streams
+ of study.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout FragileFrame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+center
+\end_layout
+
+\end_inset
+
+ THANK YOU!!
+\end_layout
+
+\end_deeper
+\begin_layout FragileFrame
+
+\end_layout
+
+\begin_layout FragileFrame
+
+\end_layout
+
+\begin_layout FragileFrame
+
+\end_layout
+
+\end_body
+\end_document

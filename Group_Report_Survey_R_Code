@@ -1,0 +1,230 @@
+My.file=read.csv("C:\\Users\\SOURAV\\Desktop\\SEM - 4\\SEM - 4 AKG\\Group Report Survey\\Unlock the insights.csv")
+
+head(My.file)
+View(My.file)
+
+#Pie chart for the sex distribution:
+# Read the CSV file
+My.file <- read.csv("C:\\Users\\SOURAV\\Desktop\\SEM - 4\\SEM - 4 AKG\\Group Report Survey\\Unlock the insights.csv")
+
+# Check the structure of the data
+str(My.file)
+
+# The column name "Sex"
+# Creating the pie chart
+sex_counts <- table(My.file$Sex)
+pie(sex_counts, labels = paste(names(sex_counts), ": ",
+	sex_counts), main = "Sex Distribution")
+
+
+
+
+#Column diagram (bar plot) for age distribution:
+# Assuming the column name is "Age" 
+# Creating the bar plot
+barplot(table(My.file$Age),
+	main = "Age Distribution",
+	xlab = "Age",
+	ylab = "Frequency",
+	col = "turquoise",
+	legend.text = TRUE)
+
+
+#pie chart for annual family income:
+# Assuming the column name for annual family income is "AnnualFamilyIncome"
+# Creating the pie chart
+income_counts <- table(My.file$Annual.family.income)
+pie(income_counts,
+	labels = paste(names(income_counts), ": ",
+	round(income_counts/sum(income_counts)*100), "%"),
+	main = "Annual Family Income Distribution",
+	col = rainbow(length(income_counts)))
+legend("topright", legend = names(income_counts),
+	fill = rainbow(length(income_counts)))
+
+
+
+#pie chart for the "Where do you stay" variable with legends:
+# Assuming the column name for "Where do you stay" is "Stay" 
+# Creating the pie chart
+stay_counts <- table(My.file$Where.do.you.stay)
+pie(stay_counts,labels = paste(names(stay_counts), ": ",
+	round(stay_counts/sum(stay_counts)*100), "%"),
+	main = "Where do you stay Distribution",
+	col = rainbow(length(stay_counts)),
+	cex = 0.8)
+legend("topright", legend = names(stay_counts), fill = rainbow(length(stay_counts)))
+
+
+
+#column diagram (bar plot) for the average regular commute hours to go to college or university with legends:
+
+# Assuming the column name is "Average regular commute hours to go to your college or university." 
+# Assuming the column name for legends is "Frequency" 
+# Creating the bar plot
+barplot(table(My.file$Average.regular.commute.hours.to.go.to.your.college.or.university.),names.arg = My.file$Legend,
+        main = "Average Regular Commute Hours to College/University",
+        xlab = "Average Commute Hours",
+        ylab = "Frequency",
+        col = "skyblue",
+        legend.text = TRUE)
+
+
+
+#pie chart for the "How often do you use social networking sites":
+# Assuming the column name is "How often do you use social networking sites"
+# Creating the pie chart
+social_counts <- table(My.file$How.often.do.you.use.social.networking.sites)
+pie(social_counts, 
+    labels = paste(names(social_counts), ": ",
+    round(social_counts/sum(social_counts)*100), "%"), 
+    main = "Social Networking Usage Distribution",
+    col = rainbow(length(social_counts)),
+    cex = 0.8)
+legend("topright", legend = names(social_counts), fill = rainbow(length(social_counts)))
+
+
+
+
+#column diagram (bar plot) for "How many hours a day do you spend time on social networking websites on average
+# Assuming the column name is "How many hours a day do you spend time on social networking websites on average" 
+# Assuming the column name for legends is "Legend" 
+# Creating the bar plot
+barplot(table(My.file$How.many.hours.a.day.do.you.spend.time.on.social.networking.websites.on.average), 
+        names.arg = My.file$Legend,
+        main = "Daily Hours Spent on Social Networking",
+        xlab = "Legend",
+        ylab = "Hours",
+        xlim = c(0, max(My.file$How.many.hours.a.day.do.you.spend.time.on.social.networking.websites.on.average) + 2),
+        ylim = c(0, max(My.file$How.many.hours.a.day.do.you.spend.time.on.social.networking.websites.on.average) + 2),
+        col = "blue", 
+        legend.text = TRUE)
+
+
+
+
+#pie chart for the "In which stream are you pursuing your bachelors/post-graduate/PhD"
+# Assuming the column name is "In.which.stream.are.you.pursuing.your.bachelors.post.graduate.PhD." 
+# Creating the pie chart
+stream_counts <- table(My.file$In.which.stream.are.you.pursuing.your.bachelors.post.graduate.PhD.)
+pie(stream_counts, 
+    labels = paste(names(stream_counts), ": ", stream_counts), 
+    main = "Stream of Study Distribution",
+    col = rainbow(length(stream_counts)),
+    cex = 0.8)
+legend("topleft", legend = names(stream_counts), fill = rainbow(length(stream_counts)))
+
+
+
+
+#pie chart for the "Favorite Social networking platform to spend time on":
+# Assuming the column name is "Favorite.Social.networking.platform.to.spend.time.on." 
+# Creating the pie chart
+platform_counts <- table(My.file$Favorite.Social.networking.platform.to.spend.time.on.)
+pie(platform_counts, 
+    labels = paste(names(platform_counts), ": ", platform_counts), 
+    main = "Favorite Social Networking Platform",
+    col = rainbow(length(platform_counts)),
+    cex = 0.8)
+legend("topright", legend = names(platform_counts), fill = rainbow(length(platform_counts)))
+
+
+
+
+
+# Assuming the column name is "What.is.the.significant.purpose.of.yours.to.use.social.networking.sites." 
+# Creating the pie chart
+purpose_counts <- table(My.file$What.is.the.significant.purpose.of.yours.to.use.social.networking.sites.)
+pie(purpose_counts, 
+    labels = paste(names(purpose_counts), ": ", purpose_counts), 
+    main = "Purpose of Using Social Networking Sites",
+    col = rainbow(length(purpose_counts)),
+    cex = 0.8)
+legend("topright", legend = names(purpose_counts), fill = rainbow(length(purpose_counts)))
+
+
+
+#pie chart for the "Do you feel stressed out for using too much of social networking sites":
+
+# Assuming the column name is "Do.you.feel.stressed.out.for.using.too.much.of.social.networking.sites." 
+# Creating the pie chart
+stress_counts <- table(My.file$Do.you.feel.stressed.out.for.using.too.much.of.social.networking.sites.)
+pie(stress_counts, 
+    labels = paste(names(stress_counts), ": ", stress_counts), 
+    main = "Stress from Using Social Networking Sites",
+    col = rainbow(length(stress_counts)),
+    cex = 0.8)
+legend("topright", legend = names(stress_counts), fill = rainbow(length(stress_counts)))
+
+
+
+
+#pie chart for the "In your opinion, how would you rate your academic satisfaction out of 5":
+# Assuming the column name is " In.your.opinion.how.would.you.rate.your.academic.satisfaction.out.of.5."
+# Creating the pie chart
+satisfaction_counts <- table(My.file$ In.your.opinion.how.would.you.rate.your.academic.satisfaction.out.of.5.)
+pie(satisfaction_counts, 
+    labels = paste(names(satisfaction_counts), ": ", "(",
+    round(satisfaction_counts/sum(satisfaction_counts)*100), "%", ")"), 
+    main = "Academic Satisfaction Rating",
+    col = rainbow(length(satisfaction_counts)),
+    cex = 0.8)
+legend("topright", legend = names(satisfaction_counts), fill = rainbow(length(satisfaction_counts)))
+
+
+
+
+#pie chart for the "In your opinion, how would you rate your professional satisfaction out of 5":
+# Assuming the column name is "In.your.opinion.how.would.you.rate.your.professional.satisfaction.out.of.5." 
+# Creating the pie chart
+satisfaction_counts_1 <- table(My.file$In.your.opinion.how.would.you.rate.your.professional.satisfaction.out.of.5.)
+pie(satisfaction_counts_1, 
+    labels = paste(names(satisfaction_counts_1), ": ",
+    "(", round(satisfaction_counts_1/sum(satisfaction_counts_1)*100), "%", ")"), 
+    main = "Professional Satisfaction Rating",
+    col = rainbow(length(satisfaction_counts_1)),
+    cex = 0.8)
+legend("topleft", legend = names(satisfaction_counts_1), fill = rainbow(length(satisfaction_counts_1)))
+
+
+
+
+
+
+#pie chart for the "How would you find yourself in a social gathering":
+# Assuming the column name is " How.would.you.find.yourself.in.a.social.gathering." 
+# Creating the pie chart
+self_assessment_counts <- table(My.file$ How.would.you.find.yourself.in.a.social.gathering.)
+pie(self_assessment_counts, 
+    labels = paste(names(self_assessment_counts), ": ", self_assessment_counts), 
+    main = "Self-assessment in a Social Gathering",
+    col = rainbow(length(self_assessment_counts)),
+    cex = 0.8)
+legend("topright", legend = names(self_assessment_counts), fill = rainbow(length(self_assessment_counts)))
+
+
+
+#pie chart for the "How many hours do you sleep in a day":
+# Assuming the column name for hours of sleep is "How.many.hours.do.you.sleep.in.a.day." 
+# Creating the pie chart
+sleep_counts <- table(My.file$How.many.hours.do.you.sleep.in.a.day.)
+pie(sleep_counts, 
+    labels = paste(names(sleep_counts), ": ", sleep_counts), 
+    main = "Hours of Sleep Distribution",
+    col = rainbow(length(sleep_counts)),
+    cex = 0.8)
+legend("topright", legend = names(sleep_counts), fill = rainbow(length(sleep_counts)))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
