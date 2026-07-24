@@ -2,7 +2,7 @@
 
 A statistics survey project examining how social media usage affects academic performance, screen time, distraction, and behavior among students in and around Kolkata, based on a 140-respondent questionnaire and analyzed in R.
 
-**Authors:** Manish Chandra Roy (22214120027), Sourav Dey (22214110028), Swarnendu Dey (22214110024), Roshni Majhi (22214220029)
+**Authors:** Manish Chandra Roy, Sourav Dey, Swarnendu Dey, Roshni Majhi
 **Program:** Department of Statistics, Presidency University, Kolkata, West Bengal, India
 
 ## Overview
